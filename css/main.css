@@ -163,6 +163,10 @@ product page sidebar
     border-style: solid;
     border-width: 10px 0 0 10px;
     border-color: transparent transparent transparent #ff0033;
+    position: absolute;
+    right: 81px;
+    top: 71px;
+    -webkit-transform:rotate(360deg)
 }
 
 /*------------------------------------------------------------
